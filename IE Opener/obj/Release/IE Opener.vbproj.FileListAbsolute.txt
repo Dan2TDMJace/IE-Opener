@@ -1,0 +1,11 @@
+C:\Users\khens\source\repos\IE Opener\IE Opener\bin\Release\IE Opener.exe.config
+C:\Users\khens\source\repos\IE Opener\IE Opener\bin\Release\IE Opener.exe
+C:\Users\khens\source\repos\IE Opener\IE Opener\bin\Release\IE Opener.pdb
+C:\Users\khens\source\repos\IE Opener\IE Opener\bin\Release\IE Opener.xml
+C:\Users\khens\source\repos\IE Opener\IE Opener\obj\Release\IE_Opener.Form1.resources
+C:\Users\khens\source\repos\IE Opener\IE Opener\obj\Release\IE_Opener.Resources.resources
+C:\Users\khens\source\repos\IE Opener\IE Opener\obj\Release\IE Opener.vbproj.GenerateResource.cache
+C:\Users\khens\source\repos\IE Opener\IE Opener\obj\Release\IE Opener.vbproj.CoreCompileInputs.cache
+C:\Users\khens\source\repos\IE Opener\IE Opener\obj\Release\IE Opener.exe
+C:\Users\khens\source\repos\IE Opener\IE Opener\obj\Release\IE Opener.xml
+C:\Users\khens\source\repos\IE Opener\IE Opener\obj\Release\IE Opener.pdb
